@@ -1,8 +1,8 @@
-<h2>José Henrique <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
-<p><em>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am majoring in computer engineering in <a href="https://www.ifpb.edu.br/campinagrande">IFPB</a>, I am passionate about technologies, especially those involving Java, Linux and networks!
-</em></p>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140" alt="Logo" align="right" /> José Henrique <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+=====
 
-<img align='right' alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
+<p><em>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I am majoring in computer engineering in <a href="https://www.ifpb.edu.br/campinagrande">IFPB</a>, I am passionate about technologies, especially those involving Java, Linux and networks!
+</em></p>
 
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Joshaby)](https://github.com/Joshaby)
 [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:josehenriquebrito55@gmail.com)](josehenriquebrito55@gmail.com/)
@@ -11,7 +11,7 @@
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://www.instagram.com/josehenrique707/)](https://www.instagram.com/josehenrique707/)
 
 <center>
-  <table style="width: 300px" >
+  <table style="width: 700px; align='right';" >
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshaby&layout=compact" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=joshaby&show_icons=true&bg_color=FFF&text_color=000&title_color=14274e&icon_color=394867" /></td>  
   </table>
