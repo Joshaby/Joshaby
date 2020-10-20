@@ -2,8 +2,7 @@
 <p><em>Hello, I am majoring in computer engineering in <a href="https://www.ifpb.edu.br/campinagrande">IFPB</a>, I am passionate about technologies, especially those involving Java, Linux and networks!
 </em></p>
 
-<img align='right' alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
-
+<img align='right' alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Joshaby)](https://github.com/Joshaby)
 [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:josehenriquebrito55@gmail.com)](josehenriquebrito55@gmail.com/)
