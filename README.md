@@ -12,7 +12,7 @@
 
 <center>
   <table style="width: 700px; align='right';" >
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshaby&layout=compact?theme=radical" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshaby&layout=compact" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=joshaby&show_icons=true&bg_color=FFF&text_color=000&title_color=14274e&icon_color=394867" /></td>  
   </table>
 </center>
