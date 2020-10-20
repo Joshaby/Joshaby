@@ -1,5 +1,5 @@
 <h2>José Henrique <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
-<p><em>Hello, I am majoring in computer engineering in <a href="https://www.ifpb.edu.br/campinagrande">IFPB</a>, I am passionate about technologies, especially those involving Java, Linux and networks!
+<p><em>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am majoring in computer engineering in <a href="https://www.ifpb.edu.br/campinagrande">IFPB</a>, I am passionate about technologies, especially those involving Java, Linux and networks!
 </em></p>
 
 <img align='right' alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
