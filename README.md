@@ -12,7 +12,7 @@
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://www.instagram.com/josehenrique707/)](https://www.instagram.com/josehenrique707/)
 
 <center>
-  <table style="width: 675px; align='right';" >
+  <table style="width: 300px; align='right';" >
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshaby&layout=compact" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=joshaby&show_icons=true&bg_color=FFF&text_color=000&title_color=14274e&icon_color=394867" /></td>  
   </table>
