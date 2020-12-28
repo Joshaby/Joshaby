@@ -25,4 +25,4 @@
 ### Workspace spec
 
 ![Intel Badge](https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)
-![Linux Badge](https://img.shields.io/badge/Pop!_OS_20.10-Samsung%20x30%20-%230078D6.svg?&style=for-the-badge&logo=linux&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/Fedora_33-Samsung%20x30%20-%230078D6.svg?&style=for-the-badge&logo=linux&logoColor=white)
