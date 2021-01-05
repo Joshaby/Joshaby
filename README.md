@@ -13,7 +13,7 @@
 <center>
   <table>
     <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=joshaby&show_icons=true&bg_color=#000000" alt="joshaby" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=joshaby&show_icons=true&bg_color=f5f5dc" alt="joshaby" /></td>
 <td><img width="370px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshaby&hide=html&layout=compact" /></td>
 </tr>   
   </table>
