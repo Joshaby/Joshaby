@@ -75,7 +75,7 @@ Right now, I'm learning REST API with Spring Boot with JPA HIbernate and MySQL o
     <br>
          <p align="center">
             <img width="360px" src="https://github-readme-stats.vercel.app/api?username=joshaby&show_icons=true&theme=tokyonight" alt="joshaby" />
-            &nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <img width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshaby&hide=html&layout=compact&theme=tokyonight" />
         </p>
 </details>
