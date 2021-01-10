@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250" alt="Logo" align="right" /> José Henrique :smile:
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" alt="Logo" align="right" /> José Henrique :smile:
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55">
 =====
 
@@ -12,7 +12,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshaby&show_icons=true&theme=tokyonight" style="width:51%">
 &nbsp;&nbsp;&nbsp;
-
 
 ## Contact :iphone:
 
@@ -85,9 +84,6 @@ Right now, I'm learning REST API with Spring Boot with JPA HIbernate and MySQL o
     <p>
         <p align="center">
             <img width="360px" src="https://github-readme-stats.vercel.app/api?username=joshaby&show_icons=true&theme=tokyonight" style="width:50%">
-        </p>
-        <p align="center">
-            <img width="360px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshaby&show_icons=true&theme=tokyonight" style="width:50%">
         </p>
         <p align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshaby&hide=html&layout=compact&theme=tokyonight" style="width:50%">
