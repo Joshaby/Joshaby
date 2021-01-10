@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" alt="Logo" align="right" /> José Henrique :smile:
+<img src="images/1.png" width="260" alt="Logo" align="right" /> José Henrique :smile:
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55">
 =====
 
@@ -8,7 +8,7 @@
     </em>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshaby&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshaby&show_icons=true&theme=dark">
 
 ## Contact :iphone:
 
@@ -59,31 +59,30 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </p>
 
+<img src="images/2.png" width="200" alt="Logo" align="right" />
+
 ## Learning :smirk:
 
 Right now, I'm learning REST API with Spring Boot with JPA HIbernate and MySQL on the back end! And Frontend with Angular and Ionic!
 
-## Workspace Spec & Plataforms :computer:
 
-<p align="center">
-    <img src="https://img.shields.io/badge/intel_core%20i5%208Th-Samsung_X30-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Fedora_33-0B57A4?style=for-the-badge&logo=fedora&logoColor=white">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Linux_Mint_20.1-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Windows_10_20H2-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</p>
+## Workspace Spec & OS :computer:
+
+<img src="https://img.shields.io/badge/intel_core%20i5%208Th-Samsung_X30-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
+<img src="https://img.shields.io/badge/Fedora_33-0B57A4?style=for-the-badge&logo=fedora&logoColor=white">
+<img src="https://img.shields.io/badge/Linux_Mint_20.1-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
+<img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+
 
 <details>
     <summary> More Things :grin: </summary>
-    <br>
+    <br><br>
     <p>
         <p align="center">
-            <img width="360px" src="https://github-readme-stats.vercel.app/api?username=joshaby&show_icons=true&theme=tokyonight" style="width:50%">
+            <img width="360px" src="https://github-readme-stats.vercel.app/api?username=joshaby&show_icons=true&theme=dark" style="width:50%">
         </p>
         <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshaby&hide=html&layout=compact&theme=tokyonight" style="width:50%">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshaby&hide=html&layout=compact&theme=dark" style="width:50%">
         </p>
     </p>
 </details>
