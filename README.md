@@ -8,9 +8,7 @@
     </em>
 </p>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshaby&show_icons=true&theme=tokyonight" style="width:51%">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshaby&show_icons=true&theme=tokyonight">
 &nbsp;&nbsp;&nbsp;
 
 ## Contact :iphone:
