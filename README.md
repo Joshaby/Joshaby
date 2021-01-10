@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140" alt="Logo" align="right" /> José Henrique 
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140" alt="Logo" align="right" /> José Henrique
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55">
 =====
 
@@ -76,18 +76,18 @@ Right now, I'm learning REST API with Spring Boot with JPA HIbernate and MySQL o
     <summary> More Things </summary>
     <br>
     <p>
-        <center>
+        <p align="center">
             <img width="360px" src="https://github-readme-stats.vercel.app/api?username=joshaby&show_icons=true&theme=tokyonight" style="width:50%">
-        </center>
-        <center>
+        </p>
+        <p align="center">
             <img width="360px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshaby&show_icons=true&theme=tokyonight" style="width:50%">
-        </center>
-        <center>
+        </p>
+        <p align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshaby&hide=html&layout=compact&theme=tokyonight" style="width:50%">
-        </center>
+        </p>
     </p>
 </details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <details>
     <summary> Click here if you can ... </summary>
     <br>
