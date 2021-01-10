@@ -10,9 +10,9 @@
 
 <br>
 <p align="center">
-    <img width="360px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshaby&show_icons=true&theme=tokyonight" style="width:37%">
-    <img src="https://github-readme-stats.vercel.app/api?username=joshaby&show_icons=true&layout=compact&theme=tokyonight" style="width:28%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshaby&hide=html&layout=compact&theme=tokyonight" style="width:23%">
+    <img width="360px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshaby&show_icons=true&theme=tokyonight" style="width:51%">
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=joshaby&show_icons=true&theme=tokyonight" style="width:39%">
 </p>
 
 ## Contact :iphone:
@@ -78,8 +78,26 @@ Right now, I'm learning REST API with Spring Boot with JPA HIbernate and MySQL o
     <img src="https://img.shields.io/badge/Linux_Mint_20.1-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
 </p>
 
+## Workspace Spec & Plataforms :computer:
+
 <details>
     <summary> More Things </summary>
+    <br>
+    <p>
+        <p align="center">
+            <img width="360px" src="https://github-readme-stats.vercel.app/api?username=joshaby&show_icons=true&theme=tokyonight" style="width:50%">
+        </p>
+        <p align="center">
+            <img width="360px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshaby&show_icons=true&theme=tokyonight" style="width:50%">
+        </p>
+        <p align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshaby&hide=html&layout=compact&theme=tokyonight" style="width:50%">
+        </p>
+    </p>
+</details>
+
+<details>
+    <summary> Click here if you can ... </summary>
     <br>
         <p align="center">
             YOU GOT RICK ROLL'D!!!
