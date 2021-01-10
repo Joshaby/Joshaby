@@ -74,10 +74,8 @@ Right now, I'm learning REST API with Spring Boot with JPA HIbernate and MySQL o
     <img src="https://img.shields.io/badge/Linux_Mint_20.1-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
 </p>
 
-## Workspace Spec & Plataforms :computer:
-
 <details>
-    <summary> More Things </summary>
+    <summary> More Things :computer: </summary>
     <br>
     <p>
         <p align="center">
