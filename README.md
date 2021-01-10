@@ -10,7 +10,7 @@
 
 <br>
 <p align="center">
-    <img width="360px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshaby&show_icons=true&theme=tokyonight" style="width:51%">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshaby&show_icons=true&theme=tokyonight" style="width:51%">
     &nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api?username=joshaby&show_icons=true&theme=tokyonight" style="width:39%">
 </p>
