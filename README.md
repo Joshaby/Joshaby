@@ -75,7 +75,7 @@ Right now, I'm learning REST API with Spring Boot with JPA HIbernate and MySQL o
 </p>
 
 <details>
-    <summary> More Things :computer: </summary>
+    <summary> More Things :grin: </summary>
     <br>
     <p>
         <p align="center">
@@ -88,7 +88,7 @@ Right now, I'm learning REST API with Spring Boot with JPA HIbernate and MySQL o
 </details>
 
 <details>
-    <summary> Click here if you can ... </summary>
+    <summary> Click here if you can ... :stuck_out_tongue_winking_eye: </summary>
     <br>
         <p align="center">
             YOU GOT RICK ROLL'D!!!
