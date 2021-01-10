@@ -10,9 +10,9 @@
 
 <br>
 <p align="center">
-    <img width="360px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshaby&show_icons=true&theme=tokyonight" style="width:40%">
-    <img src="https://github-readme-stats.vercel.app/api?username=joshaby&show_icons=true&layout=compact&theme=tokyonight" style="width:31%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshaby&hide=html&layout=compact&theme=tokyonight" style="width:26%">
+    <img width="360px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshaby&show_icons=true&theme=tokyonight" style="width:37%">
+    <img src="https://github-readme-stats.vercel.app/api?username=joshaby&show_icons=true&layout=compact&theme=tokyonight" style="width:28%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshaby&hide=html&layout=compact&theme=tokyonight" style="width:23%">
 </p>
 
 ## Contact :iphone:
