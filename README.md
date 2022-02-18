@@ -61,11 +61,6 @@
 
 <img src="images/2.png" width="180" alt="Logo" align="right" />
 
-## Learning :smirk:
-
-Right now, I'm learning REST API with Spring Boot with JPA HIbernate and MySQL on the back end! And Frontend with Angular and Ionic!
-
-
 ## Workspace Spec & OS :computer:
 <p align="left">
     <img src="https://img.shields.io/badge/core%20i5%208Th-Samsung_X30-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
