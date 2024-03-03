@@ -65,7 +65,7 @@
 <p align="left">
     <img src="https://img.shields.io/badge/core%20i5%208Th-Samsung_X30-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Fedora_35-0B57A4?style=for-the-badge&logo=fedora&logoColor=white">
+    <img src="https://img.shields.io/badge/Fedora_40-0B57A4?style=for-the-badge&logo=fedora&logoColor=white">
 </p>
 
 
